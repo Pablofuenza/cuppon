@@ -16,3 +16,13 @@ body {
     width: auto;
 }
 
+.card-title h5 {
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: #212529;
+}
+
+
+
+
+
